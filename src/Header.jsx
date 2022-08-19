@@ -14,7 +14,7 @@ const Header = () => {
         <span style={{ fontSize: 30 }}>SnapStation</span>
 
         <div style={{display:"flex", justifyContent:"space-between"}}>
-          <div style={{ backgroundColor: "white", marginLeft: "50px", height:"85%", display:"flex" }}>
+          <div style={{ backgroundColor: "white", marginLeft: "50px", height:"85%", width:"500px", display:"flex" }}>
             <svg
                 width="18"
                 height="18"
